@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d0miKuras
-- 👀 I’m interested in webdev and gamedev.
+- 👀 I’m a full time game developer. I mainly work in Unity but am an avid admirer of Unreal Engine.
 - 🌱 I’m currently learning C++ and Unreal Engine 4.
 📫 How to reach me:
 - Email: dominik.kurasbediani@gmail.com
