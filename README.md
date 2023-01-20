@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d0miKuras
-- 👀 I’m a full time game developer. I mainly work in Unity but am an avid admirer of Unreal Engine.
-- 🌱 I’m currently learning C++ and Unreal Engine 4.
+- 👀 I’m a full time game developer. I mainly work in Unity but am an avid admirer of Unreal Engine. I love working on my game engine :)
+- 🌱 Life-long student.
 📫 How to reach me:
 - Email: dominik.kurasbediani@gmail.com
 - Twitter: young_dessa
