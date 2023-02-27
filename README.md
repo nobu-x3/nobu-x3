@@ -3,7 +3,7 @@
 - 🌱 Life-long student. Currently applying my experience with Unity and Unreal, as well as learning new concepts, to create my own game engine. 
 📫 How to reach me:
 - Email: dominik.kurasbediani@gmail.com
-- Twitter: young_dessa
+- Twitter: nobu_dev
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=d0miKuras&theme=gruvbox)](https://git.io/streak-stats)
 <!---
