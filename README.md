@@ -6,7 +6,7 @@
 - Email: dominik.kurasbediani@gmail.com
 - Twitter: nobu_dev
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=d0miKuras&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=d0miKuras&theme=dracula&hide_border=true&dates=CDD6F4&ring=CBA6F7&fire=CBA6F7&sideNums=CBA6F7&sideLabels=CBA6F7&background=1E1E2E&currStreakLabel=CDD6F4&currStreakNum=94E2D5)]([https://git.io/streak-stats](https://github.com/d0miKuras?tab=repositories))
 [![d0miKuras' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0miKuras&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/d0miKuras?tab=repositories)
 <!---
 d0miKuras/d0miKuras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
