@@ -1,4 +1,4 @@
-[![d0miKuras' GitHub stats](https://github-readme-stats.vercel.app/api?username=d0miKuras&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/d0miKuras)
+[![d0miKuras' GitHub stats](https://github-readme-stats.vercel.app/api?username=d0miKuras&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_rank=true)](https://github.com/d0miKuras)
 - 👋 Hi, I’m @d0miKuras
 - 👀 I’m a full time game developer. I mainly work in Unity.
 - 🌱 Life-long student. Currently applying my experience with Unity and Unreal to create my own game engine. 
