@@ -1,6 +1,6 @@
 [![d0miKuras' GitHub stats](https://github-readme-stats-d0mikuras.vercel.app/api?username=nobu-x3&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_rank=true&PAT_1)](https://github.com/nobu-x3)
 - 👋 Hi, I’m @nobu-x3
-- 👀 I’m a full time game programmer.
+- 👀 I’m a full time tools programmer.
 - 🌱 Life-long student. I like making custom game engines, good performance, and procedural code.
 - 📫 How to reach me:
   - Email: dominik.kurasbediani@gmail.com
