@@ -10,7 +10,7 @@
 
 #### 💻 Languages
 C · C++ (Modern C++17/20) · Zig · Odin · Jai · CMake · Bash  
-Familiar with: Assembly (x86 / ARM), Rust (learning), GLSL/HLSL, Python (scripting)
+Familiar with: Assembly (x86), Rust (learning), GLSL/HLSL
 
 #### ⚙️ Tools & Systems
 Linux (main dev env) · GCC/Clang/MSVC · GDB · Valgrind · Git · Perforce · Vim · Visual Studio · Qt  
