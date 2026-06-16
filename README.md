@@ -1,38 +1,35 @@
-## 👋 Hey, I’m Dominik Kurasbediani (nobu-x3)
+## Hey, I'm Dominik Kurasbediani (nobu-x3)
 
-⚙️ **Systems & Low-Level Programmer** — building efficient, robust software close to the metal.  
-🧠 Passionate about **C/C++, compilers, operating systems, embedded systems**, and **performance engineering**.  
-💡 “Tools and Game Engine Programmer by day, expanding horizons by night.”
+⚙️ **Systems & Low-Level C++ Programmer** — memory, concurrency, networking, and performance close to the metal.
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 Languages
-C · C++ (Modern C++17/20) · Zig · Odin · Jai · CMake · Bash  
-Familiar with: Assembly (x86), Rust (learning), GLSL/HLSL
+#### Languages
+C · C++ (C++17/20) · CMake · Bash  
+Familiar with: Assembly (x86), GLSL/HLSL, Rust, Zig
 
-#### ⚙️ Tools & Systems
-Linux (main dev env) · GCC/Clang/MSVC · GDB · Valgrind · Git · Perforce · Vim · Visual Studio · Qt  
-Low-Level Systems · Embedded Development · Build Systems · OS Internals · Compiler Tooling
+#### Tools & Environment
+Linux (main dev env) · GCC / Clang / MSVC · GDB · Valgrind · Perf · Git · Perforce · Vim
 
-#### 🧩 Specialties
-- Memory management and allocator design  
-- OS-level and embedded systems programming  
-- Build pipelines and cross-compilation setups  
-- Reflection, serialization, and data pipelines  
-- Performance analysis, debugging, and profiling  
-- Compiler backends and code generation
+#### Specialties
+- Memory allocator design (arena, pool, stack, generational)
+- Concurrent data structures and job scheduling
+- Cross-platform networking (TCP/UDP/TLS)
+- Performance analysis, instrumentation, and profiling
+- Compiler design and code generation
+- DirectX 12 / Vulkan rendering
 
 ---
 
 ### 🚀 Selected Projects
 
 | Project | Description | Tech |
-|----------|--------------|------|
-| [**Sapfire Engine**](https://github.com/nobu-x3/sapfire) | An eternal pet game engine built in many languages - C, C++, Zig, Rust, Odin, Jai. Features engine core built from scratch — pseudo-ECS, file I/O, and custom allocator architecture. | C++17, DirectX |
-| [**Guccigedon**](https://github.com/nobu-x3/guccigedon) | Experimental game engine featuring a multithreaded logger, pseudo-ECS and a Vulkan renderer. | C++17, Vulkan|
-| [**OS Experiments**](https://github.com/nobu-x3/sap_os) | Kernel and bootloader experiments — paging, interrupts, scheduler, filesystem prototypes. | C, Assembly |
-| [**Compiler**](https://github.com/nobu-x3/saplang) | A custom programming language compiler. | C |
+|---|---|---|
+| [**Sapfire Libraries**](https://github.com/Sapfire-Interactive) | Modular C++20 systems library ecosystem: custom allocators, lock-free SPSC queue, thread pool, TCP/UDP/TLS sockets, HTTP/HTTPS client+server, memory-mapped I/O, instrumentation profiler. | C++20 |
+| [**saplang**](https://github.com/nobu-x3/saplang) | A compiled programming language — lexer, parser, AST, and backend code generation. | C |
+| [**Guccigedon**](https://github.com/nobu-x3/guccigedon) | Experimental engine with a Vulkan renderer, multithreaded logger, and pseudo-ECS. | C++17, Vulkan |
+| [**Sapfire Engine**](https://github.com/nobu-x3/sapfire) | Long-running engine project. DX12 bindless renderer built from scratch, custom allocator architecture, pseudo-ECS, cross-platform file I/O. | C++17, DX12 |
 
 *(See more on my [repositories →](https://github.com/nobu-x3?tab=repositories))*
